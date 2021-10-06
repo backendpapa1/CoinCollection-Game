@@ -4,4 +4,4 @@ A test coin collection game using unity and C#. Working on a new version using a
 This game will run on linux alone
 # run 
 
-<code>$ nanaobile.x86_64 </code>
+<code>$ nanamobile.x86_64 </code>
